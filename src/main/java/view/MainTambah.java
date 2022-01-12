@@ -4,6 +4,8 @@
  */
 package view;
 
+import model.Provinsi;
+
 /**
  *
  * @author Hasanurrahman
